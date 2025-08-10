@@ -24,7 +24,7 @@
     "@types/node": "^20.14.1",
     "terser": "^5.31.0",
     "typescript": "^5.4.5",
-    "vue-tsc": "^2.0.19"
+    "vue-tsc": "^3.0.3"
   },
   "packageManager": "pnpm@9.1.4"
 }
